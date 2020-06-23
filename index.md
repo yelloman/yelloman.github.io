@@ -10,3 +10,7 @@ Diese Biene hat besondere Eigenschaften:
 * hilfsbereit
 * empathisch
 * vorlaut
+
+## Eine Weisheit
+
+> Ich bin eine ganz echte Honigbiene! Und das werd ich dir gleich beweisen, mein Lieber.
